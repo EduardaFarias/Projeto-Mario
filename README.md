@@ -1,2 +1,2 @@
 # Projeto Mario :mushroom:
-Landing page sobre o filme Super Mario Bro
+Landing page sobre o filme Super Mario Bros
